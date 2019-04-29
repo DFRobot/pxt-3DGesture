@@ -1,0 +1,16 @@
+{
+    "name": "TDGesture",
+    "version": "0.0.1",
+    "description": "Used to monitor the occurrence of gestures",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "TDGesture.ts",
+        "_locales/zh/TDGesture-strings.json"
+    ],
+    "testFiles": [],
+    "public": true,
+    "installedVersion": "workspace:39eec8c0-1f94-44e4-0c0c-a8c4d41b5884"
+}
