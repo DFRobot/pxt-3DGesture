@@ -9,6 +9,7 @@ Used to read current gesture.
 * [URL](#url)
 * [Summary](#summary)
 * [Blocks](#blocks)
+* [License](#license)
 
 ## URL
 project URL: ```https://github.com/DFRobot/pxt-3DGesture```
@@ -18,7 +19,19 @@ The block is provided to realize three-dimensional gesture recognition, which ca
 clockwise and counterclockwise gestures in three-dimensional space.
 
 ## Blocks
-![image](https://github.com/DFRobot/3DGesture/blob/master/image/TDGesture.png)
+![image](https://github.com/DFRobot/pxt-3DGesture/blob/master/image/TDGesture.png)
 
 Judging whether the current gesture is consistent with the Current posture option box.
 get code:```https://github.com/DFRobot/pxt-3DGesture/blob/master/TDGesture.ts```
+
+## License
+
+MIT
+
+## Supported targets
+
+* for PXT/microbit
+(The metadata above is needed for package search.)
+```package
+NFC=github:DFRobot/pxt-NFCUART
+```
