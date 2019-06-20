@@ -155,7 +155,7 @@ namespace TDGesture {
 
     /*3D手势模块*/
     //% weight = 40
-    //% blockId=Gesture block="pin(D) %pinD|pin(MCLR) %pinMCLR|Current posture %Pose|?"
+    //% blockId=Gesture block="The current guesture of Pin(D) %pinD and Pin(MCLR) %pinMCLR is %Pose"
     export function Gesture(pinD: chooseD, pinMCLR: chooseD, Pose: whichPose): boolean {
         UsePin = pinD;
         if (Status == Pose) {
